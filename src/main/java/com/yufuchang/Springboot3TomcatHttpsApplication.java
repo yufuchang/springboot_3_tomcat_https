@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Springboot3TomcatHttpsApplication {
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(Springboot3TomcatHttpsApplication.class, args);
 
